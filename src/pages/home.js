@@ -13,9 +13,7 @@ const Home = () => {
           Content to be added very soon!
         </s.TextDescription>
         <s.SpacerLarge />
-        <s.TextDescription style={{ textAlign: "center" }}>
-          Your no.1 Launchpad on the space
-        </s.TextDescription>
+        <s.TextDescription>{}</s.TextDescription>
       </s.Container>
     </s.Container>
   );
