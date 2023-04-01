@@ -6,12 +6,12 @@ const Home = () => {
     <s.Container ai="center">
       <s.Container ai="center">
         <s.SpacerLarge />
-        <s.TextDescription fs={"89px"}>IDOFactory</s.TextDescription>
+        <s.TextDescription fs={"89px"}>AscensionOne</s.TextDescription>
         <s.TextDescription style={{ textAlign: "center" }}>
-          Decentralize IDO launchpad platform
+          Safe and secure launchpad for verified projects #clicksafe
         </s.TextDescription>
         <s.SpacerLarge />
-        <s.TextDescription>{/* - Isaak Solovev - */}</s.TextDescription>
+        <s.TextDescription>{}</s.TextDescription>
       </s.Container>
     </s.Container>
   );
